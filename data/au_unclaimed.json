@@ -1,0 +1,362 @@
+{
+  "generated": "2026-10-18",
+  "country": "AU",
+  "count": 12,
+  "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
+  "resources": [
+    {
+      "id": "moneysmart-unclaimed",
+      "name": "Moneysmart unclaimed money search (ASIC)",
+      "operator": "ASIC Moneysmart",
+      "what_it_finds": "Searches money held by ASIC (bank accounts, shares, life insurance) and links to other searches.",
+      "how": "Search your name on Moneysmart's 'Find unclaimed money'. Then also check state registers and lost super.",
+      "cost": "Free",
+      "url": "https://moneysmart.gov.au/find-unclaimed-money",
+      "notes": "The parent page timed out for us (box got 403, WebFetch timed out). Verified via its sub-page 'Money held by state governments' (last updated 27 Feb 2026).",
+      "country": "AU",
+      "source_urls": [
+        "https://moneysmart.gov.au/find-unclaimed-money/money-held-by-state-governments"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://moneysmart.gov.au/find-unclaimed-money/money-held-by-state-governments",
+            "robots": "found",
+            "http": 200,
+            "chars": 11490,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "ato-lost-super",
+      "name": "ATO lost and unclaimed super (via myGov)",
+      "operator": "Australian Taxation Office",
+      "what_it_finds": "Lost super accounts and ATO-held super.",
+      "how": "Sign in to myGov, link the ATO, choose Super, then Fund details. Lost accounts show 'Contact fund'; ATO-held super can be transferred or paid out. Phone 13 28 65 if you can't use myGov.",
+      "cost": "Free",
+      "url": "https://www.ato.gov.au/forms-and-instructions/superannuation-searching-for-lost-superannuation",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.ato.gov.au/forms-and-instructions/superannuation-searching-for-lost-superannuation"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.ato.gov.au/forms-and-instructions/superannuation-searching-for-lost-superannuation",
+            "robots": "found",
+            "http": 200,
+            "chars": 7854,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "nsw-unclaimed",
+      "name": "NSW unclaimed money (Revenue NSW)",
+      "operator": "Revenue NSW",
+      "what_it_finds": "Unclaimed money from NSW businesses and organisations.",
+      "how": "Search by name on Revenue NSW and claim online.",
+      "cost": "Free",
+      "url": "https://www.revenue.nsw.gov.au/unclaimed-money",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.revenue.nsw.gov.au/unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.revenue.nsw.gov.au/unclaimed-money",
+            "robots": "found",
+            "http": 200,
+            "chars": 4803,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "vic-unclaimed",
+      "name": "Victoria unclaimed money register (State Revenue Office)",
+      "operator": "State Revenue Office Victoria",
+      "what_it_finds": "Unclaimed money in Victoria, including unclaimed rental bonds older than 12 months.",
+      "how": "Search with your name and any previous addresses.",
+      "cost": "Free",
+      "url": "https://www.sro.vic.gov.au/unclaimed-money/search-your-unclaimed-money",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.sro.vic.gov.au/unclaimed-money/search-your-unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.sro.vic.gov.au/unclaimed-money/search-your-unclaimed-money",
+            "robots": "found",
+            "http": 200,
+            "chars": 28030,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "qld-unclaimed",
+      "name": "Queensland unclaimed money (Public Trustee)",
+      "operator": "Public Trustee of Queensland",
+      "what_it_finds": "Government, business, wage and deceased-estate money held by the Public Trustee.",
+      "how": "Search online. If you find a match, note the reference number and follow the claim steps.",
+      "cost": "Free",
+      "url": "https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money",
+      "notes": "The search's terms forbid copying or publishing its data. We only link to it and never scrape it.",
+      "country": "AU",
+      "source_urls": [
+        "https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money",
+            "robots": "unavailable (HTTPError)",
+            "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+          }
+        ],
+        "status": "manual_verified",
+        "method": "WebFetch of pt.qld.gov.au search page 2026-10-18 (box urllib gets 403)"
+      }
+    },
+    {
+      "id": "wa-unclaimed",
+      "name": "Western Australia unclaimed money (Treasury)",
+      "operator": "WA Department of Treasury and Finance",
+      "what_it_finds": "Unclaimed money held by WA Treasury.",
+      "how": "Use the official search (name plus suburb/postcode) linked from the WA government page.",
+      "cost": "Free",
+      "url": "https://www.wa.gov.au/service/business-support/business-accounting-and-reporting/unclaimed-money",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.wa.gov.au/service/business-support/business-accounting-and-reporting/unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.wa.gov.au/service/business-support/business-accounting-and-reporting/unclaimed-money",
+            "robots": "found",
+            "http": 200,
+            "chars": 13655,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "sa-unclaimed",
+      "name": "South Australia unclaimed money (Treasury and Finance)",
+      "operator": "SA Department of Treasury and Finance",
+      "what_it_finds": "Unclaimed money held by SA Treasury.",
+      "how": "Search by name on the SA Treasury page.",
+      "cost": "Free",
+      "url": "https://www.treasury.sa.gov.au/Our-services/unclaimed-money/search-for-unclaimed-money",
+      "notes": "UNCERTAIN: the page sits behind a Cloudflare bot check and we could not read it. The agency is listed on Moneysmart's state-government page; the URL came from search.",
+      "country": "AU",
+      "source_urls": [
+        "https://www.treasury.sa.gov.au/Our-services/unclaimed-money/search-for-unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.treasury.sa.gov.au/Our-services/unclaimed-money/search-for-unclaimed-money",
+            "robots": "unavailable (HTTPError)",
+            "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+          }
+        ],
+        "status": "manual_verified",
+        "method": "Agency confirmed via Moneysmart state list (WebFetch 2026-10-18); page itself not readable"
+      }
+    },
+    {
+      "id": "tas-unclaimed",
+      "name": "Tasmania unclaimed money (Treasury and Finance)",
+      "operator": "Tasmanian Department of Treasury and Finance",
+      "what_it_finds": "Unclaimed money of $50 or more, published as searchable PDF listings.",
+      "how": "Open the listings and search for your name (Ctrl+F); try name variations.",
+      "cost": "Free",
+      "url": "https://www.treasury.tas.gov.au/budget-and-financial-management/guidelines-instructions-and-legislation/unclaimed-money",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.treasury.tas.gov.au/budget-and-financial-management/guidelines-instructions-and-legislation/unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.treasury.tas.gov.au/budget-and-financial-management/guidelines-instructions-and-legislation/unclaimed-money",
+            "robots": "found",
+            "http": 200,
+            "chars": 6776,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "act-unclaimed",
+      "name": "ACT unclaimed moneys (ACT Treasury)",
+      "operator": "ACT Treasury",
+      "what_it_finds": "Unclaimed trust monies held by ACT Treasury, including some unclaimed rental bonds.",
+      "how": "Search ACT Treasury unclaimed moneys, then submit a claim.",
+      "cost": "Free",
+      "url": "https://www.treasury.act.gov.au/unclaimedmoneys",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.treasury.act.gov.au/unclaimedmoneys"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.treasury.act.gov.au/unclaimedmoneys",
+            "robots": "found",
+            "http": 200,
+            "chars": 6351,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "nt-unclaimed",
+      "name": "Northern Territory unclaimed money (Territory Revenue Office)",
+      "operator": "NT Territory Revenue Office",
+      "what_it_finds": "Unclaimed company money and some NT government super benefits.",
+      "how": "Check the 'Unclaimed company money register' (PDF/XLSX), then send the claim form with certified ID.",
+      "cost": "Free",
+      "url": "https://nt.gov.au/employ/money-and-taxes/unclaimed-money/apply-for-unclaimed-money",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://nt.gov.au/employ/money-and-taxes/unclaimed-money/apply-for-unclaimed-money"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://nt.gov.au/employ/money-and-taxes/unclaimed-money/apply-for-unclaimed-money",
+            "robots": "unavailable (HTTPError)",
+            "http": 200,
+            "chars": 4040,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "nsw-rental-bonds",
+      "name": "NSW rental bonds (Rental Bonds Online)",
+      "operator": "NSW Fair Trading",
+      "what_it_finds": "Rental bonds you have not reclaimed.",
+      "how": "Log in to Rental Bonds Online as a tenant to manage your bond and claim a refund. Older unclaimed money goes to Revenue NSW, so search there too.",
+      "cost": "Free",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants",
+            "robots": "found",
+            "http": 200,
+            "chars": 6375,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "vic-rental-bonds",
+      "name": "Victoria unclaimed rental bonds (RTBA retained repayments)",
+      "operator": "Consumer Affairs Victoria / RTBA",
+      "what_it_finds": "Bond repayments the RTBA couldn't pay out ('retained').",
+      "how": "Use RTBA's 'Find a retained repayment' with the name and email on the bond. After 12 months unclaimed, bonds move to the SRO unclaimed money register.",
+      "cost": "Free",
+      "url": "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bonds-that-have-not-been-claimed-retained-repayments",
+      "notes": null,
+      "country": "AU",
+      "source_urls": [
+        "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bonds-that-have-not-been-claimed-retained-repayments"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bonds-that-have-not-been-claimed-retained-repayments",
+            "robots": "found",
+            "http": 200,
+            "chars": 5587,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    }
+  ]
+}

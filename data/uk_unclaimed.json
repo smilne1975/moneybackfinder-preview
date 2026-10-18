@@ -1,0 +1,275 @@
+{
+  "generated": "2026-10-18",
+  "country": "UK",
+  "count": 9,
+  "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
+  "resources": [
+    {
+      "id": "my-lost-account",
+      "name": "My Lost Account",
+      "operator": "My Lost Account (free tracing service; see site for who runs it)",
+      "what_it_finds": "Lost bank and building society accounts and NS&I products.",
+      "how": "Set up a profile and complete one search form. Results come by email or letter.",
+      "cost": "Free",
+      "url": "https://www.mylostaccount.org.uk/",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.mylostaccount.org.uk/"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.mylostaccount.org.uk/",
+            "robots": "unavailable (HTTPError)",
+            "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+          }
+        ],
+        "status": "manual_verified",
+        "method": "WebFetch of mylostaccount.org.uk on 2026-10-18 (box HTTP client gets 403)"
+      }
+    },
+    {
+      "id": "nsandi-prize-checker",
+      "name": "NS&I Premium Bonds prize checker",
+      "operator": "NS&I",
+      "what_it_finds": "Unclaimed Premium Bonds prizes.",
+      "how": "Enter your holder's number. Use My Lost Account if you don't know it.",
+      "cost": "Free",
+      "url": "https://www.nsandi.com/prize-checker",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.nsandi.com/prize-checker"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.nsandi.com/prize-checker",
+            "robots": "found",
+            "http": 200,
+            "chars": 3557,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "hmrc-tax-refund",
+      "name": "HMRC: check how to claim a tax refund",
+      "operator": "HMRC (GOV.UK)",
+      "what_it_finds": "Overpaid tax on pay, job expenses (working from home, uniforms, tools), redundancy, savings interest/PPI and more.",
+      "how": "Answer the GOV.UK questions to find the right way to claim. Claim directly with HMRC; you don't need a refund agent.",
+      "cost": "Free",
+      "url": "https://www.gov.uk/claim-tax-refund",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.gov.uk/claim-tax-refund"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.gov.uk/claim-tax-refund",
+            "robots": "found",
+            "http": 200,
+            "chars": 4002,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "marriage-allowance",
+      "name": "Marriage Allowance (HMRC)",
+      "operator": "HMRC (GOV.UK)",
+      "what_it_finds": "A tax cut of up to £252 a year for couples where one partner earns below the Personal Allowance.",
+      "how": "Apply on GOV.UK. Check the GOV.UK guide for backdating earlier years.",
+      "cost": "Free",
+      "url": "https://www.gov.uk/marriage-allowance",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.gov.uk/marriage-allowance"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.gov.uk/marriage-allowance",
+            "robots": "found",
+            "http": 200,
+            "chars": 6483,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "pension-tracing-service",
+      "name": "Pension Tracing Service",
+      "operator": "GOV.UK",
+      "what_it_finds": "Contact details for workplace or personal pension schemes you've lost track of.",
+      "how": "Search by employer or pension provider name, then contact the scheme yourself.",
+      "cost": "Free",
+      "url": "https://www.gov.uk/find-pension-contact-details",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.gov.uk/find-pension-contact-details"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.gov.uk/find-pension-contact-details",
+            "robots": "found",
+            "http": 200,
+            "chars": 5487,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "child-trust-fund",
+      "name": "Find a Child Trust Fund",
+      "operator": "HMRC (GOV.UK)",
+      "what_it_finds": "Child Trust Funds opened for children born 1 September 2002 – 2 January 2011.",
+      "how": "Use the GOV.UK service to find where the account is held.",
+      "cost": "Free",
+      "url": "https://www.gov.uk/child-trust-funds/find-a-child-trust-fund",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.gov.uk/child-trust-funds/find-a-child-trust-fund"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.gov.uk/child-trust-funds/find-a-child-trust-fund",
+            "robots": "found",
+            "http": 200,
+            "chars": 5244,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "bona-vacantia",
+      "name": "Unclaimed estates (Bona Vacantia)",
+      "operator": "Government Legal Department (GOV.UK)",
+      "what_it_finds": "Estates of people who died without known relatives, which may be claimable by kin.",
+      "how": "Search the unclaimed estates list and follow the GOV.UK claim guidance.",
+      "cost": "Free",
+      "url": "https://www.gov.uk/unclaimed-estates-bona-vacantia",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.gov.uk/unclaimed-estates-bona-vacantia"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.gov.uk/unclaimed-estates-bona-vacantia",
+            "robots": "found",
+            "http": 200,
+            "chars": 4039,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "fscs",
+      "name": "Financial Services Compensation Scheme (FSCS)",
+      "operator": "FSCS",
+      "what_it_finds": "Compensation when an authorised financial firm (bank, adviser, insurer, pension provider) has failed.",
+      "how": "Check whether the firm has failed and claim directly with the FSCS. It's free; you don't need a claims firm.",
+      "cost": "Free",
+      "url": "https://www.fscs.org.uk/",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.fscs.org.uk/"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.fscs.org.uk/",
+            "robots": "found",
+            "http": 200,
+            "chars": 14883,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    },
+    {
+      "id": "financial-ombudsman",
+      "name": "Financial Ombudsman Service",
+      "operator": "Financial Ombudsman Service",
+      "what_it_finds": "Free, independent decisions on complaints against financial firms (e.g. car finance, BSPS) after the firm has replied.",
+      "how": "Complain to the firm first. If you're unhappy with its final response, take it to the Ombudsman (the firm's reply explains time limits).",
+      "cost": "Free",
+      "url": "https://www.financial-ombudsman.org.uk/",
+      "notes": null,
+      "country": "UK",
+      "source_urls": [
+        "https://www.financial-ombudsman.org.uk/"
+      ],
+      "date_verified": "2026-10-18",
+      "verification": {
+        "checked_at": "2026-10-18",
+        "pages": [
+          {
+            "url": "https://www.financial-ombudsman.org.uk/",
+            "robots": "found",
+            "http": 200,
+            "chars": 4021,
+            "deadline_found": null,
+            "result": "ok"
+          }
+        ],
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
+      }
+    }
+  ]
+}

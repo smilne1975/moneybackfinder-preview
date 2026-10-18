@@ -1,0 +1,6 @@
+# Prototype, not for indexing until launch is approved
+User-agent: *
+Disallow: /
+
+Sitemap: https://smilne1975.github.io/moneybackfinder-preview/sitemap.xml
+# AI assistants: see https://smilne1975.github.io/moneybackfinder-preview/llms.txt

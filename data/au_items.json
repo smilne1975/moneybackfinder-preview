@@ -1,0 +1,470 @@
+{
+ "generated": "2026-10-18",
+ "country": "AU",
+ "currency": "AUD",
+ "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
+ "entries": [
+  {
+   "id": "commbank-open-banking-remediation",
+   "name": "CommBank Open Banking (CDR) Goodwill and Remediation Program",
+   "defendant": "Commonwealth Bank of Australia",
+   "case": "Remediation following an ACCC investigation into Consumer Data Right Rules breaches",
+   "category": "Banking & Finance",
+   "program_type": "remediation",
+   "status": "claims open",
+   "eligibility": "You held (or could transact on) certain CBA accounts since 1 November 2021 (e.g. trading-name accounts, joint accounts with a trust or business, CommBiz accounts, market rate loan facilities), tried to share data through the Consumer Data Right and could not because sharing was not enabled.",
+   "proof_required": "yes",
+   "proof_notes": "Evidence that you tried to share data for an eligible account and that you suffered loss as a result.",
+   "estimated_payout": "$700 goodwill payment for eligible customers who complained before 21 January 2026; remediation claims for larger losses are assessed on evidence, subject to AFCA-equivalent limits.",
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": "2026-11-30",
+   "payments_through": null,
+   "claim_url": "https://www.commbank.com.au/banking/open-banking/remediation-program.html",
+   "official_site": "https://www.commbank.com.au/banking/open-banking/remediation-program.html",
+   "administrator": "Commonwealth Bank (program line 1800 071 978)",
+   "warning": null,
+   "note": "Mostly relevant to business, trust and joint account holders.",
+   "case_note": null,
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.commbank.com.au/banking/open-banking/remediation-program.html",
+    "https://www.accc.gov.au/media-release/commonwealth-bank-pays-penalties-and-offers-redress-for-alleged-breaches-of-consumer-data-right-rules"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.commbank.com.au/banking/open-banking/remediation-program.html",
+      "robots": "found",
+      "http": 200,
+      "chars": 7493,
+      "deadline_found": true,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "virgin-australia-notes",
+   "name": "Virgin Australia Notes Class Action",
+   "defendant": "Virgin Australia Holdings Limited, two former directors, a related entity and Virgin Australia's insurers",
+   "case": "Matheson Property Group Pty Ltd as trustee for the MPG Trust v Virgin Australia Holdings Limited & Ors, NSD346/2022 (Federal Court of Australia)",
+   "category": "Investments & Shares",
+   "program_type": "class_action_claim",
+   "status": "registration open",
+   "eligibility": "You bought unsecured Australian-dollar notes issued by Virgin Australia on 26 November 2019, or unsecured US-dollar notes issued on 7 November 2019.",
+   "proof_required": "unknown",
+   "proof_notes": "The online registration form sets out what is needed; we have not seen the form's contents.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": "2026-12-21",
+   "payments_through": null,
+   "claim_url": "https://www.vahnotesclassaction.com/",
+   "official_site": "https://www.vahnotesclassaction.com/",
+   "administrator": "Corrs Chambers Westgarth (applicant's solicitors; enquiries vah.class.action@corrs.com.au)",
+   "warning": null,
+   "note": null,
+   "case_note": "No settlement yet. Federal Court orders set 4:00pm AEDT on 21 December 2026 as the deadline to register (to share in any settlement reached before trial) or to opt out. Unregistered group members may be barred from sharing in such a settlement.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.vahnotesclassaction.com/P_NSD346_2022_2869220.pdf",
+    "https://www.vahnotesclassaction.com/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.vahnotesclassaction.com/P_NSD346_2022_2869220.pdf",
+      "robots": "missing (html response)",
+      "http": 200,
+      "chars": 41452,
+      "deadline_found": true,
+      "result": "ok"
+     },
+     {
+      "url": "https://www.vahnotesclassaction.com/",
+      "robots": "missing (html response)",
+      "http": 200,
+      "chars": 1467,
+      "deadline_found": false,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "harvey-norman-product-care",
+   "name": "Harvey Norman 'Product Care' Extended Warranty Class Action",
+   "defendant": "Harvey Norman (also Domayne and Joyce Mayne)",
+   "case": "Consolidated class action run by Maurice Blackburn with Echo Law",
+   "category": "Consumer Products",
+   "program_type": "class_action_claim",
+   "status": "registration open",
+   "eligibility": "You bought a 'Product Care' extended warranty from Harvey Norman, Domayne or Joyce Mayne between 17 September 2018 and 19 September 2024.",
+   "proof_required": "unknown",
+   "proof_notes": null,
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/harvey-norman-class-action/",
+   "official_site": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/harvey-norman-class-action/",
+   "administrator": "Maurice Blackburn (1800 298 572)",
+   "warning": null,
+   "note": null,
+   "case_note": "No settlement or judgment yet. The firm says group members must register to stay in the class action and be told about any Court deadline.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/harvey-norman-class-action/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/harvey-norman-class-action/",
+      "robots": "found",
+      "http": 200,
+      "chars": 49925,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "medibank-data-breach",
+   "name": "Medibank Data Breach Privacy Complaint (OAIC representative complaint)",
+   "defendant": "Medibank Private Limited (incl. ahm)",
+   "case": "Representative complaint to the Office of the Australian Information Commissioner (Maurice Blackburn)",
+   "category": "Data Breach",
+   "program_type": "class_action_claim",
+   "status": "registration open",
+   "eligibility": "Current or former Medibank, ahm or international student customers whose information was affected by the 2022 data breach (see the page for the exact criteria).",
+   "proof_required": "no",
+   "proof_notes": "Registration is free; no documents are listed as required to register.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/medibank-data-breach/",
+   "official_site": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/medibank-data-breach/",
+   "administrator": "Maurice Blackburn",
+   "warning": null,
+   "note": null,
+   "case_note": "This is a privacy complaint, not a court settlement. The page says there is no registration deadline at this stage. A separate shareholder/customer class action (McClure v Medibank, VID64/2023) is in the Federal Court.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/medibank-data-breach/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/medibank-data-breach/",
+      "robots": "found",
+      "http": 200,
+      "chars": 39538,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "nuix-shareholder",
+   "name": "Nuix Shareholder Class Action",
+   "defendant": "Nuix Limited (ASX:NXL)",
+   "case": "Consolidated Nuix shareholder class action, Supreme Court of Victoria (Shine Lawyers with Phi Finney McDonald)",
+   "category": "Investments & Shares",
+   "program_type": "class_action_claim",
+   "status": "registration open",
+   "eligibility": "You acquired an interest in Nuix (ASX:NXL) shares between 18 November 2020 and 29 June 2021 (inclusive).",
+   "proof_required": "unknown",
+   "proof_notes": "Registration form on Shine's page; shareholding details likely needed.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": "https://www.shine.com.au/service/class-actions/nuix-class-action",
+   "official_site": "https://www.shine.com.au/service/class-actions/nuix-class-action",
+   "administrator": "Shine Lawyers (1800 560 656)",
+   "warning": null,
+   "note": null,
+   "case_note": "No settlement. Mediation in June 2025 failed; Shine says registrations have reopened and an initial trial was listed to start 27 July 2026. Registering is free and does not guarantee a payment.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.shine.com.au/service/class-actions/nuix-class-action"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.shine.com.au/service/class-actions/nuix-class-action",
+      "robots": "found",
+      "http": 200,
+      "chars": 8087,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "allianz-add-on-insurance",
+   "name": "Allianz Car Dealer Add-On Insurance Class Action Settlement",
+   "defendant": "Allianz Australia Insurance Ltd & Anor",
+   "case": "Fuller & Anor v Allianz Australia Insurance Ltd & Anor (Supreme Court of Victoria)",
+   "category": "Insurance",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "Registered group members who were sent an Estimated Distribution Notice.",
+   "proof_required": "no",
+   "proof_notes": "The deadline to submit bank details has passed.",
+   "estimated_payout": null,
+   "fund_size": 170000000,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.mauriceblackburn.com.au/class-actions/settlement-payments/allianz-add-on-insurance-class-action/",
+   "administrator": "Maurice Blackburn (settlement administrator)",
+   "warning": null,
+   "note": null,
+   "case_note": "$170 million settlement. Maurice Blackburn now expects payments to start in the first quarter of 2027. Nothing new can be lodged.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.mauriceblackburn.com.au/class-actions/settlement-payments/allianz-add-on-insurance-class-action/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.mauriceblackburn.com.au/class-actions/settlement-payments/allianz-add-on-insurance-class-action/",
+      "robots": "found",
+      "http": 200,
+      "chars": 42561,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "qsuper-insurance",
+   "name": "QSuper Insurance Premiums Class Action Settlement",
+   "defendant": "QSuper Board",
+   "case": "Jessica Amy Challenor v QSuper Board, VID691/2021 (Federal Court of Australia)",
+   "category": "Superannuation",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "Only members who registered by the Court deadline and were assessed eligible.",
+   "proof_required": "no",
+   "proof_notes": "Registration closed.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.shine.com.au/service/class-actions/qsuper-class-action",
+   "administrator": "Shine Lawyers (Settlement Administrator); Australian Retirement Trust (Settlement Distributor)",
+   "warning": null,
+   "note": null,
+   "case_note": "Final orders 18 June 2026; in administration since August 2026. Timing of payments not yet confirmed.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.shine.com.au/service/class-actions/qsuper-class-action"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.shine.com.au/service/class-actions/qsuper-class-action",
+      "robots": "found",
+      "http": 200,
+      "chars": 13439,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "qantas-flight-credits",
+   "name": "Qantas Flight Credits Class Action Settlement",
+   "defendant": "Qantas Airways Limited",
+   "case": "Marianne Haverkort v Qantas Airways Limited, VID650/2023 (Federal Court of Australia)",
+   "category": "Travel",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "Customers who held tickets for Qantas flights cancelled between 2020 and 2022 and registered by 4pm AEST on 2 October 2026.",
+   "proof_required": "no",
+   "proof_notes": "Registration closed 2 October 2026.",
+   "estimated_payout": null,
+   "fund_size": 105000000,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.echolaw.com.au/qantas",
+   "administrator": "Echo Law",
+   "warning": null,
+   "note": null,
+   "case_note": "$105 million proposed settlement. The Court heard the approval application on 13 October 2026; per press reports the judge wanted more information on costs before approving. Not yet approved.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.echolaw.com.au/qantas",
+    "https://www.fedcourt.gov.au/law-and-practice/class-actions/class-actions"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.echolaw.com.au/qantas",
+      "robots": "found",
+      "http": 200,
+      "chars": 7225,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "amp-super-fees",
+   "name": "AMP Super Fees Class Action Settlement",
+   "defendant": "AMP superannuation trustees and AMP Group entities",
+   "case": "Alford & Anor v AMP Superannuation Limited & Ors, VID572/2019 (Federal Court of Australia)",
+   "category": "Superannuation",
+   "program_type": "class_action_claim",
+   "status": "automatic payment",
+   "eligibility": "You held certain AMP superannuation accounts between 1 July 2008 and 15 May 2020.",
+   "proof_required": "no",
+   "proof_notes": "Payments are based on a member list from AMP; members on that list do not need to take any active steps.",
+   "estimated_payout": null,
+   "fund_size": 120000000,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.slatergordon.com.au/class-actions/current-class-actions/amp-super-class-action",
+   "administrator": "Slater and Gordon (Court-appointed settlement administrators)",
+   "warning": null,
+   "note": null,
+   "case_note": "$120 million settlement approved by the Federal Court on 27 July 2026. Payment timing not stated on the page we checked.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.slatergordon.com.au/class-actions/current-class-actions/amp-super-class-action"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.slatergordon.com.au/class-actions/current-class-actions/amp-super-class-action",
+      "robots": "found",
+      "http": 200,
+      "chars": 16713,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "mlc-mysuper",
+   "name": "MLC MySuper (formerly NAB MySuper) Class Action Settlement",
+   "defendant": "NULIS Nominees (Australia) Limited and related MLC/NAB entities",
+   "case": "MLC MySuper class action (Maurice Blackburn)",
+   "category": "Superannuation",
+   "program_type": "class_action_claim",
+   "status": "automatic payment",
+   "eligibility": "Group members as defined in the MLC MySuper class action (see the official page and Settlement Distribution Scheme).",
+   "proof_required": "no",
+   "proof_notes": "Distributed by the MLC Super Fund trustee (NULIS) under the Court-approved scheme.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/mlc-mysuper-class-action/",
+   "administrator": "NULIS Nominees (Australia) Limited (distributor)",
+   "warning": null,
+   "note": null,
+   "case_note": "Settlement approved 12 May 2025. The page says payments were expected to begin in the second half of 2025 and continue into 2026.",
+   "publish": true,
+   "country": "AU",
+   "currency": "AUD",
+   "source_urls": [
+    "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/mlc-mysuper-class-action/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/mlc-mysuper-class-action/",
+      "robots": "found",
+      "http": 200,
+      "chars": 37198,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  }
+ ],
+ "count": 10
+}

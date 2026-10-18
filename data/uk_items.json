@@ -1,0 +1,376 @@
+{
+ "generated": "2026-10-18",
+ "country": "UK",
+ "currency": "GBP",
+ "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
+ "entries": [
+  {
+   "id": "fca-motor-finance",
+   "name": "FCA Car Finance Commission Compensation Scheme",
+   "defendant": "Car finance lenders (various)",
+   "case": "FCA motor finance redress scheme (partly suspended pending legal challenge)",
+   "category": "Motoring",
+   "program_type": "regulator_redress",
+   "status": "claims open",
+   "eligibility": "You used finance (including HP and PCP, not PCH leasing) for a car, motorbike or van between 6 April 2007 and 1 November 2024 and weren't told about a discretionary commission arrangement, a high commission or contractual ties. Exclusions apply.",
+   "proof_required": "no",
+   "proof_notes": "Complain to your lender for free. The FCA lists lenders and template letters. You don't need a claims company.",
+   "estimated_payout": "FCA estimate: average around £830 per agreement.",
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": "https://www.fca.org.uk/consumers/car-finance-complaints",
+   "official_site": "https://www.fca.org.uk/consumers/car-finance-complaints",
+   "administrator": "Your lender, overseen by the FCA",
+   "warning": null,
+   "note": null,
+   "case_note": "Payments are paused. The scheme's legal challenge is due to be heard 16–26 February 2027, and the FCA expects payments in 2027 if the scheme is upheld. Claims firms can take up to 36% (incl. VAT).",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.fca.org.uk/consumers/car-finance-complaints"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.fca.org.uk/consumers/car-finance-complaints",
+      "robots": "found",
+      "http": 200,
+      "chars": 21760,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "post-office-capture-redress",
+   "name": "Post Office Capture Redress Scheme",
+   "defendant": "Post Office / Department for Business and Trade",
+   "case": "UK government redress scheme (Capture software)",
+   "category": "Government",
+   "program_type": "government",
+   "status": "claims open",
+   "eligibility": "Sub-postmasters (or their estates or partnerships) who suffered a financial shortfall or other harm because of the Capture accounting software.",
+   "proof_required": "unknown",
+   "proof_notes": "Application form with a countersignatory. GOV.UK lists the required information.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
+   "official_site": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
+   "administrator": "Department for Business and Trade",
+   "warning": null,
+   "note": null,
+   "case_note": "Open since 29 October 2025. No application deadline is stated on the GOV.UK page.",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
+      "robots": "found",
+      "http": 200,
+      "chars": 24997,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "windrush-compensation",
+   "name": "Windrush Compensation Scheme",
+   "defendant": "Home Office",
+   "case": "UK government compensation scheme",
+   "category": "Government",
+   "program_type": "government",
+   "status": "claims open",
+   "eligibility": "You suffered losses because you could not show your right to live in the UK, and you (or your parents or grandparents) came from a Commonwealth country before 1973, or you came from any country before 31 December 1988 and are now settled. Some close family members and estates can also apply.",
+   "proof_required": "yes",
+   "proof_notes": "Evidence of losses (employment, housing, health, etc.).",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": "https://www.gov.uk/apply-windrush-compensation-scheme",
+   "official_site": "https://www.gov.uk/apply-windrush-compensation-scheme",
+   "administrator": "Home Office",
+   "warning": null,
+   "note": null,
+   "case_note": "No closing date is shown on GOV.UK. Applying is free and information isn't used for immigration enforcement.",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.gov.uk/apply-windrush-compensation-scheme"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.gov.uk/apply-windrush-compensation-scheme",
+      "robots": "found",
+      "http": 200,
+      "chars": 4572,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "mclaren-car-delivery-charges",
+   "name": "Car Delivery Charges (RoRo shipping cartel) £55.8m Settlement",
+   "defendant": "MOL, NYK and other car shipping companies",
+   "case": "Mark McLaren Class Representative Limited v MOL (Europe Africa) Ltd & Others, 1339/7/7/20 (Competition Appeal Tribunal)",
+   "category": "Motoring",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "You (or your business) bought or financed a new car or van in the UK for your own use between 18 October 2006 and 6 September 2015 (some brands excluded). You can then claim for eligible new vehicles bought or leased up to 31 December 2019.",
+   "proof_required": "unknown",
+   "proof_notes": null,
+   "estimated_payout": "£25 for the first eligible vehicle, £5 each for the 2nd to 6th, £2.50 each after that. First come, first served until the fund runs out.",
+   "fund_size": 55800000,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.cardeliverycharges.com/",
+   "administrator": null,
+   "warning": null,
+   "note": null,
+   "case_note": "The claim window is expected to open in November 2026 and run for about 6 months, or until the fund is used up. You can sign up on the official site to be emailed when it opens. Excluded brands include Audi, Fiat, Jaguar, Land Rover, Mini, Porsche, Seat, Skoda and Volvo, among others (see FAQs).",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.cardeliverycharges.com/",
+    "https://www.cardeliverycharges.com/faqs/",
+    "https://www.catribunal.org.uk/cases/13397720-mark-mclaren-class-representative-limited"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.cardeliverycharges.com/",
+      "robots": "unavailable (HTTPError)",
+      "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+     },
+     {
+      "url": "https://www.cardeliverycharges.com/faqs/",
+      "robots": "unavailable (HTTPError)",
+      "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+     }
+    ],
+    "status": "manual_verified",
+    "method": "WebFetch of official site + FAQs 2026-10-18"
+   }
+  },
+  {
+   "id": "google-play-developers",
+   "name": "Google Play Store UK Developers £260m Settlement",
+   "defendant": "Google",
+   "case": "Professor Barry Rodger v Google (Competition Appeal Tribunal collective proceedings)",
+   "category": "Technology",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "UK app developers who paid Google Play commissions during the claim period (see the settlement notice).",
+   "proof_required": "unknown",
+   "proof_notes": null,
+   "estimated_payout": null,
+   "fund_size": 260000000,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.googleplaystoredeveloperclaim.com/",
+   "administrator": "Claim administrator (info@googleplaystoreclaim.co.uk)",
+   "warning": null,
+   "note": null,
+   "case_note": "Settlement approved at a hearing on 16 September 2026. The site says details of how to claim will be published in the coming weeks; register there for updates. For developers, not ordinary app users.",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.googleplaystoredeveloperclaim.com/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.googleplaystoredeveloperclaim.com/",
+      "robots": "missing (html response)",
+      "http": 200,
+      "chars": 2048,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "kent-apple-app-store",
+   "name": "Kent v Apple App Store Overcharge Judgment",
+   "defendant": "Apple Inc. and Apple Distribution International Ltd",
+   "case": "Dr Rachael Kent v Apple Inc. & Apple Distribution International Ltd, 1403/7/7/21 (Competition Appeal Tribunal)",
+   "category": "Technology",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "UK users of the App Store in the class (opt-out). Class members do not need to sign up to stay in the case.",
+   "proof_required": null,
+   "proof_notes": null,
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.catribunal.org.uk/cases/14037721-dr-rachael-kent",
+   "administrator": null,
+   "warning": null,
+   "note": null,
+   "case_note": "Judgment was delivered on 23 October 2025 ([2025] CAT 67), and the Tribunal refused Apple permission to appeal on 13 November 2025. Press reports say the class won and that Apple is pursuing an appeal to the Court of Appeal, but we did not confirm the award amount or appeal timetable on an official page. No distribution process has started. Class members don't need to do anything now.",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.catribunal.org.uk/cases/14037721-dr-rachael-kent"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.catribunal.org.uk/cases/14037721-dr-rachael-kent",
+      "robots": "found",
+      "http": 200,
+      "chars": 10229,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  },
+  {
+   "id": "merricks-mastercard",
+   "name": "Merricks v Mastercard £200m Consumer Settlement",
+   "defendant": "Mastercard",
+   "case": "Walter Merricks CBE v Mastercard (Competition Appeal Tribunal collective proceedings)",
+   "category": "Banking & Finance",
+   "program_type": "class_action_claim",
+   "status": "awaiting distribution",
+   "eligibility": "UK consumers in the class. The official site says you can register for a payment whether or not you ever held a Mastercard. Check the site for the exact class definition when claims open.",
+   "proof_required": "no",
+   "proof_notes": "The site says claims will use a simple online form.",
+   "estimated_payout": "Official site says individuals could get between £45 and £70 each.",
+   "fund_size": 200000000,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.mastercardconsumerclaim.co.uk/",
+   "administrator": null,
+   "warning": null,
+   "note": null,
+   "case_note": "Settlement approved (CSAO made 31 October 2025). The Divisional Court dismissed the funder's judicial review on 10 June 2026. The claims process has not opened yet. You can leave an email on the official site to be told when it does.",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.mastercardconsumerclaim.co.uk/Home/SettlementUpdates",
+    "https://mastercardconsumerclaim.co.uk/"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.mastercardconsumerclaim.co.uk/Home/SettlementUpdates",
+      "robots": "unavailable (HTTPError)",
+      "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+     },
+     {
+      "url": "https://mastercardconsumerclaim.co.uk/",
+      "robots": "unavailable (HTTPError)",
+      "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+     }
+    ],
+    "status": "manual_verified",
+    "method": "WebFetch of official site 2026-10-18"
+   }
+  },
+  {
+   "id": "fca-bsps-redress",
+   "name": "British Steel Pension Scheme (BSPS) Redress Scheme",
+   "defendant": "Financial advisers who advised BSPS transfers",
+   "case": "FCA consumer redress scheme (CONRED 4)",
+   "category": "Pensions",
+   "program_type": "regulator_redress",
+   "status": "automatic payment",
+   "eligibility": "You were advised to transfer out of the British Steel Pension Scheme between 26 May 2016 and 29 March 2018.",
+   "proof_required": "no",
+   "proof_notes": "Your adviser must contact you and review the advice. If the firm has failed, claim through the FSCS.",
+   "estimated_payout": null,
+   "fund_size": null,
+   "fund_size_usd": null,
+   "claim_deadline": null,
+   "payments_through": null,
+   "claim_url": null,
+   "official_site": "https://www.fca.org.uk/consumers/british-steel-pension-redress-scheme",
+   "administrator": "FCA BSPS helpline 0800 098 4100",
+   "warning": null,
+   "note": null,
+   "case_note": "Most reviews and offers were scheduled for 2023–2024. If you were never contacted, call the FCA helpline or complain to the Financial Ombudsman.",
+   "publish": true,
+   "country": "UK",
+   "currency": "GBP",
+   "source_urls": [
+    "https://www.fca.org.uk/consumers/british-steel-pension-redress-scheme"
+   ],
+   "date_verified": "2026-10-18",
+   "verification": {
+    "checked_at": "2026-10-18",
+    "pages": [
+     {
+      "url": "https://www.fca.org.uk/consumers/british-steel-pension-redress-scheme",
+      "robots": "found",
+      "http": 200,
+      "chars": 13305,
+      "deadline_found": null,
+      "result": "ok"
+     }
+    ],
+    "status": "verified_official_page",
+    "method": "automated fetch of official page"
+   }
+  }
+ ],
+ "count": 8
+}
