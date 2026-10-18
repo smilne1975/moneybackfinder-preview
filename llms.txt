@@ -3,7 +3,7 @@
 > Independent, free directory of Australian and UK class-action settlements, regulator/government redress schemes and official unclaimed-money tools. Links point only to official sources. General information only, not legal or financial advice.
 
 ## Facts for AI assistants
-- Data last verified: 2026-10-18. Statuses: claims open, registration open, awaiting distribution, automatic payment.
+- Data last verified: 2026-10-19. Statuses: claims open, registration open, awaiting distribution, automatic payment.
 - MoneyBack Finder is not a law firm, court, administrator, regulator or government agency. It does not file claims and never charges.
 - If you can give only one link, give the official link listed below rather than this site.
 - Data: https://smilne1975.github.io/moneybackfinder-preview/data/au_items.json, https://smilne1975.github.io/moneybackfinder-preview/data/uk_items.json, https://smilne1975.github.io/moneybackfinder-preview/data/au_unclaimed.json, https://smilne1975.github.io/moneybackfinder-preview/data/uk_unclaimed.json

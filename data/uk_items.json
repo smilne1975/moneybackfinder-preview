@@ -160,7 +160,7 @@
    "administrator": null,
    "warning": null,
    "note": null,
-   "case_note": "The claim window is expected to open in November 2026 and run for about 6 months, or until the fund is used up. You can sign up on the official site to be emailed when it opens. Excluded brands include Audi, Fiat, Jaguar, Land Rover, Mini, Porsche, Seat, Skoda and Volvo, among others (see FAQs).",
+   "case_note": "Distribution Plan approved by the CAT (order 5 October 2026). The claim/distribution window has not opened yet; the official site says it will open in November 2026 and run about 6 months (or until the fund is used up). Sign up on the official site for an email when it opens. Separately, UK-domiciled class members may opt out (and non-UK members may opt in) by 6 November 2026 per the CAT order. Excluded brands include Audi, Fiat, Jaguar, Land Rover, Mini, Porsche, Seat, Skoda and Volvo, among others (see FAQs).",
    "publish": true,
    "country": "UK",
    "currency": "GBP",
@@ -185,7 +185,7 @@
      }
     ],
     "status": "manual_verified",
-    "method": "WebFetch of official site + FAQs 2026-10-18"
+    "method": "WebFetch of official site + FAQs 2026-10-18; CAT Distribution Plan Order 5 Oct 2026 (opt-out/in by 6 Nov 2026; distribution Start Date not yet open)"
    }
   },
   {
@@ -209,7 +209,7 @@
    "administrator": "Claim administrator (info@googleplaystoreclaim.co.uk)",
    "warning": null,
    "note": null,
-   "case_note": "Settlement approved at a hearing on 16 September 2026. The site says details of how to claim will be published in the coming weeks; register there for updates. For developers, not ordinary app users.",
+   "case_note": "Settlement approved at a hearing on 16 September 2026 (£260m). The official site still says details of how to claim will be published in the coming weeks; register there for updates. For developers, not ordinary app users.",
    "publish": true,
    "country": "UK",
    "currency": "GBP",
@@ -254,7 +254,7 @@
    "administrator": null,
    "warning": null,
    "note": null,
-   "case_note": "Judgment was delivered on 23 October 2025 ([2025] CAT 67), and the Tribunal refused Apple permission to appeal on 13 November 2025. Press reports say the class won and that Apple is pursuing an appeal to the Court of Appeal, but we did not confirm the award amount or appeal timetable on an official page. No distribution process has started. Class members don't need to do anything now.",
+   "case_note": "Judgment was delivered on 23 October 2025 ([2025] CAT 67), and the Tribunal refused Apple permission to appeal on 13 November 2025. A further amendment hearing was held on 27 May 2026 (judgment reserved) per the CAT case page. No distribution/claims process has started. Class members don't need to do anything now. Award amount and any Court of Appeal timetable were not confirmed on an official page.",
    "publish": true,
    "country": "UK",
    "currency": "GBP",
@@ -299,7 +299,7 @@
    "administrator": null,
    "warning": null,
    "note": null,
-   "case_note": "Settlement approved (CSAO made 31 October 2025). The Divisional Court dismissed the funder's judicial review on 10 June 2026. The claims process has not opened yet. You can leave an email on the official site to be told when it does.",
+   "case_note": "Settlement approved (CSAO made 31 October 2025). The Divisional Court dismissed the funder's judicial review on 10 June 2026. As of 18 October 2026 the official site still says the claims process has not started (pending a costs assessment). Leave an email on the site to be notified when claims open; official how-to-claim info will be posted there.",
    "publish": true,
    "country": "UK",
    "currency": "GBP",
@@ -323,7 +323,7 @@
      }
     ],
     "status": "manual_verified",
-    "method": "WebFetch of official site 2026-10-18"
+    "method": "WebFetch of official site 2026-10-18 (claims process not started; pending costs assessment)"
    }
   },
   {

@@ -144,11 +144,14 @@
           {
             "url": "https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money",
             "robots": "unavailable (HTTPError)",
-            "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
+            "http": 200,
+            "chars": 4054,
+            "deadline_found": null,
+            "result": "ok"
           }
         ],
-        "status": "manual_verified",
-        "method": "WebFetch of pt.qld.gov.au search page 2026-10-18 (box urllib gets 403)"
+        "status": "verified_official_page",
+        "method": "automated fetch of official page"
       }
     },
     {
@@ -287,7 +290,7 @@
         "pages": [
           {
             "url": "https://nt.gov.au/employ/money-and-taxes/unclaimed-money/apply-for-unclaimed-money",
-            "robots": "unavailable (HTTPError)",
+            "robots": "found",
             "http": 200,
             "chars": 4040,
             "deadline_found": null,
