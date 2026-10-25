@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-10-26",
  "country": "AU",
  "currency": "AUD",
  "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
@@ -33,9 +33,9 @@
     "https://www.commbank.com.au/banking/open-banking/remediation-program.html",
     "https://www.accc.gov.au/media-release/commonwealth-bank-pays-penalties-and-offers-redress-for-alleged-breaches-of-consumer-data-right-rules"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.commbank.com.au/banking/open-banking/remediation-program.html",
@@ -79,9 +79,9 @@
     "https://www.vahnotesclassaction.com/P_NSD346_2022_2869220.pdf",
     "https://www.vahnotesclassaction.com/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.vahnotesclassaction.com/P_NSD346_2022_2869220.pdf",
@@ -132,9 +132,9 @@
    "source_urls": [
     "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/harvey-norman-class-action/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/harvey-norman-class-action/",
@@ -177,9 +177,9 @@
    "source_urls": [
     "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/medibank-data-breach/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/medibank-data-breach/",
@@ -222,9 +222,9 @@
    "source_urls": [
     "https://www.shine.com.au/service/class-actions/nuix-class-action"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.shine.com.au/service/class-actions/nuix-class-action",
@@ -267,9 +267,9 @@
    "source_urls": [
     "https://www.mauriceblackburn.com.au/class-actions/settlement-payments/allianz-add-on-insurance-class-action/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.mauriceblackburn.com.au/class-actions/settlement-payments/allianz-add-on-insurance-class-action/",
@@ -312,9 +312,9 @@
    "source_urls": [
     "https://www.shine.com.au/service/class-actions/qsuper-class-action"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.shine.com.au/service/class-actions/qsuper-class-action",
@@ -358,15 +358,15 @@
     "https://www.echolaw.com.au/qantas",
     "https://www.fedcourt.gov.au/law-and-practice/class-actions/class-actions"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.echolaw.com.au/qantas",
       "robots": "found",
       "http": 200,
-      "chars": 7225,
+      "chars": 7276,
       "deadline_found": null,
       "result": "ok"
      }
@@ -403,15 +403,15 @@
    "source_urls": [
     "https://www.slatergordon.com.au/class-actions/current-class-actions/amp-super-class-action"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.slatergordon.com.au/class-actions/current-class-actions/amp-super-class-action",
       "robots": "found",
       "http": 200,
-      "chars": 16713,
+      "chars": 16831,
       "deadline_found": null,
       "result": "ok"
      }
@@ -448,9 +448,9 @@
    "source_urls": [
     "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/mlc-mysuper-class-action/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.mauriceblackburn.com.au/class-actions/join-a-class-action/mlc-mysuper-class-action/",

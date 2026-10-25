@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18",
+  "generated": "2026-10-26",
   "country": "AU",
   "count": 12,
   "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
@@ -17,15 +17,15 @@
       "source_urls": [
         "https://moneysmart.gov.au/find-unclaimed-money/money-held-by-state-governments"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://moneysmart.gov.au/find-unclaimed-money/money-held-by-state-governments",
             "robots": "found",
             "http": 200,
-            "chars": 11490,
+            "chars": 11553,
             "deadline_found": null,
             "result": "ok"
           }
@@ -47,21 +47,18 @@
       "source_urls": [
         "https://www.ato.gov.au/forms-and-instructions/superannuation-searching-for-lost-superannuation"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.ato.gov.au/forms-and-instructions/superannuation-searching-for-lost-superannuation",
-            "robots": "found",
-            "http": 200,
-            "chars": 7854,
-            "deadline_found": null,
-            "result": "ok"
+            "robots": "unavailable (HTTPError)",
+            "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
           }
         ],
-        "status": "verified_official_page",
-        "method": "automated fetch of official page"
+        "status": "manual_verified",
+        "method": "WebFetch of ATO page 2026-10-26 (box HTTP client gets 403; page last updated 19 June 2026)"
       }
     },
     {
@@ -77,9 +74,9 @@
       "source_urls": [
         "https://www.revenue.nsw.gov.au/unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.revenue.nsw.gov.au/unclaimed-money",
@@ -107,9 +104,9 @@
       "source_urls": [
         "https://www.sro.vic.gov.au/unclaimed-money/search-your-unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.sro.vic.gov.au/unclaimed-money/search-your-unclaimed-money",
@@ -137,13 +134,13 @@
       "source_urls": [
         "https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money",
-            "robots": "unavailable (HTTPError)",
+            "robots": "found",
             "http": 200,
             "chars": 4054,
             "deadline_found": null,
@@ -167,9 +164,9 @@
       "source_urls": [
         "https://www.wa.gov.au/service/business-support/business-accounting-and-reporting/unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.wa.gov.au/service/business-support/business-accounting-and-reporting/unclaimed-money",
@@ -197,13 +194,13 @@
       "source_urls": [
         "https://www.treasury.sa.gov.au/Our-services/unclaimed-money/search-for-unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.treasury.sa.gov.au/Our-services/unclaimed-money/search-for-unclaimed-money",
-            "robots": "unavailable (HTTPError)",
+            "robots": "found",
             "result": "fetch_failed: HTTPError: HTTP Error 403: Forbidden"
           }
         ],
@@ -224,15 +221,15 @@
       "source_urls": [
         "https://www.treasury.tas.gov.au/budget-and-financial-management/guidelines-instructions-and-legislation/unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.treasury.tas.gov.au/budget-and-financial-management/guidelines-instructions-and-legislation/unclaimed-money",
             "robots": "found",
             "http": 200,
-            "chars": 6776,
+            "chars": 6781,
             "deadline_found": null,
             "result": "ok"
           }
@@ -254,9 +251,9 @@
       "source_urls": [
         "https://www.treasury.act.gov.au/unclaimedmoneys"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.treasury.act.gov.au/unclaimedmoneys",
@@ -284,13 +281,13 @@
       "source_urls": [
         "https://nt.gov.au/employ/money-and-taxes/unclaimed-money/apply-for-unclaimed-money"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://nt.gov.au/employ/money-and-taxes/unclaimed-money/apply-for-unclaimed-money",
-            "robots": "found",
+            "robots": "unavailable (HTTPError)",
             "http": 200,
             "chars": 4040,
             "deadline_found": null,
@@ -314,9 +311,9 @@
       "source_urls": [
         "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants",
@@ -344,9 +341,9 @@
       "source_urls": [
         "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bonds-that-have-not-been-claimed-retained-repayments"
       ],
-      "date_verified": "2026-10-18",
+      "date_verified": "2026-10-26",
       "verification": {
-        "checked_at": "2026-10-18",
+        "checked_at": "2026-10-26",
         "pages": [
           {
             "url": "https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/bonds-that-have-not-been-claimed-retained-repayments",

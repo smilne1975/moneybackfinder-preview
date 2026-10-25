@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-10-26",
  "country": "UK",
  "currency": "GBP",
  "disclaimer": "General information only, not legal or financial advice. Claiming is always free on the official site.",
@@ -32,9 +32,9 @@
    "source_urls": [
     "https://www.fca.org.uk/consumers/car-finance-complaints"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.fca.org.uk/consumers/car-finance-complaints",
@@ -77,15 +77,15 @@
    "source_urls": [
     "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.gov.uk/guidance/apply-to-the-capture-redress-scheme",
       "robots": "found",
       "http": 200,
-      "chars": 24997,
+      "chars": 25417,
       "deadline_found": null,
       "result": "ok"
      }
@@ -122,9 +122,9 @@
    "source_urls": [
     "https://www.gov.uk/apply-windrush-compensation-scheme"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.gov.uk/apply-windrush-compensation-scheme",
@@ -169,9 +169,9 @@
     "https://www.cardeliverycharges.com/faqs/",
     "https://www.catribunal.org.uk/cases/13397720-mark-mclaren-class-representative-limited"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.cardeliverycharges.com/",
@@ -185,7 +185,7 @@
      }
     ],
     "status": "manual_verified",
-    "method": "WebFetch of official site + FAQs 2026-10-18; CAT Distribution Plan Order 5 Oct 2026 (opt-out/in by 6 Nov 2026; distribution Start Date not yet open)"
+    "method": "WebFetch of official site 2026-10-26; CAT Distribution Plan Order 5 Oct 2026 (non-UK-domiciled class members must opt in by 6 Nov 2026; distribution Start Date not yet open)"
    }
   },
   {
@@ -216,9 +216,9 @@
    "source_urls": [
     "https://www.googleplaystoredeveloperclaim.com/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.googleplaystoredeveloperclaim.com/",
@@ -261,9 +261,9 @@
    "source_urls": [
     "https://www.catribunal.org.uk/cases/14037721-dr-rachael-kent"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.catribunal.org.uk/cases/14037721-dr-rachael-kent",
@@ -307,9 +307,9 @@
     "https://www.mastercardconsumerclaim.co.uk/Home/SettlementUpdates",
     "https://mastercardconsumerclaim.co.uk/"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.mastercardconsumerclaim.co.uk/Home/SettlementUpdates",
@@ -323,7 +323,7 @@
      }
     ],
     "status": "manual_verified",
-    "method": "WebFetch of official site 2026-10-18 (claims process not started; pending costs assessment)"
+    "method": "WebFetch of official site Settlement Updates 2026-10-26 (claims process still stayed pending costs determination; JR dismissed 10 Jun 2026)"
    }
   },
   {
@@ -354,9 +354,9 @@
    "source_urls": [
     "https://www.fca.org.uk/consumers/british-steel-pension-redress-scheme"
    ],
-   "date_verified": "2026-10-18",
+   "date_verified": "2026-10-26",
    "verification": {
-    "checked_at": "2026-10-18",
+    "checked_at": "2026-10-26",
     "pages": [
      {
       "url": "https://www.fca.org.uk/consumers/british-steel-pension-redress-scheme",
